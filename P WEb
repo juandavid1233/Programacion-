@@ -23,3 +23,6 @@ def analisis_calle_30(df):
 df = pd.read_csv("accidentes.csv", sep=";")
 resultado = analisis_calle_30(df)
 print(resultado)
+
+
+#Juan Marmolejo Octavio Monrroy Juan Ramirez
